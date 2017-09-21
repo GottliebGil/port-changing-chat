@@ -1,7 +1,6 @@
 # Client
 
-import socket
-import random
+import socket, random
 
 IP = "localhost"
 
